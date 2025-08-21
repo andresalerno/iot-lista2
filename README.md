@@ -1,4 +1,4 @@
-### 1) Recoemdnações do Professor Branquinho
+### 1) Recomendações do Professor Branquinho
 
 #### 1.1) Exemplo de MQTT em Python
 

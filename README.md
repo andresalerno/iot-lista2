@@ -118,4 +118,4 @@ Vantagens:
 
     - quando eu digito "Cliente 1" no termnal inferior a esquerda e "Cliente 2" no terminal inferior a direita, esses dois comandos aparecem no sub conforme imagem abaixo
 
-<img src="mqtt1.png" alt="MQTT Execução" height="500">
+<img src="/mqtt/mqtt1.png" alt="MQTT Execução" height="500">
